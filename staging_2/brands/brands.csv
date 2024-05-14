@@ -1,0 +1,10 @@
+brand_id,brand_name,extraction_time,source_folder
+1,Electra,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+2,Haro,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+3,Heller,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+4,Pure Cycles,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+5,Ritchey,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+6,Strider,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+7,Sun Bicycles,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+8,Surly,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
+9,Trek,2024-04-29 12:14:14.125631,datalake/bikestore_dim/brands
